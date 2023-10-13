@@ -1,0 +1,40 @@
+@media screen and (max-width: 1200px) {
+.alian{
+  right: 1%;
+}
+button{
+  /* display: none; */
+  padding: 12px 20px ;
+  margin: 0 7px;
+  font: 12px Verdana;
+  height: 53px;
+  float: left;
+  background-color: white;
+  margin: 0;
+  padding-left: 13px;
+  padding-right: 13px;
+}
+.lgbtn{
+  width: 87%;
+  margin: 3px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+.midbtn{
+  width: 20%;
+  font-weight: 500;
+  font-stretch: expanded;
+  margin: 2px
+}
+.video{
+  width: 92%;
+}
+.wbtn{
+  display: none;
+}
+.wbtn{
+  display: none;
+}
+
+
+}

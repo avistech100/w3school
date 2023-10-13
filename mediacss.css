@@ -1,0 +1,191 @@
+@media screen and (max-width: 900px) {
+
+.wbtn{
+  display: none;
+}
+.zbtn, .slgbtn{
+  font-size: 14px;
+}
+.slg{
+  margin-right: 25px;
+}
+.a1{
+  padding-top: 60px;
+}
+.alian{
+  display: none;
+}
+.ifrm{
+  width: 95%;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 7px;
+}
+
+.hfm{
+  text-align: left;
+  font-weight: 600;
+  padding-top: 29px;
+}
+iframe{
+  width: 94%;
+  font-size: 500px;
+}
+.mh1{
+  display: block;
+}
+.phfm{
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lgdiv{
+  width: 90%;
+  margin: 16px;
+  margin-bottom: 9px;
+}
+.sec1{
+  padding-top: 55px;
+}
+.lgbtn{
+  width: 83%;
+  margin: 6px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+.midbtn{
+  width: 19%;
+  font-weight: 500;
+  font-stretch: expanded;
+}
+.ch3{
+  font-size: 15px;
+}
+.video{
+  width: 94%;
+}
+.spbtn{
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 3px 8px 14px ;
+  margin: 15px;
+  margin-left: 20px;
+  width: 340px;
+}
+
+.asmbtn{
+  font-size: 19px;
+  width: 250px;
+  margin-top: 60px
+}
+.ml{
+  font-size: 17px
+}
+.icn{
+  font-size: 17px;
+}
+.dsldp{
+  width: 98%;
+  height: auto;
+}
+.sldp{
+  width: 97%;
+}
+.htbtn{
+  width: 80%;
+}
+.tt{
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 0.5;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ttimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60px;
+  height: 56px;
+}
+.ffdiv{
+  text-align: center;
+  padding: 0;
+}
+.fdiv{
+width: inherit;
+display: block;
+text-align: center;
+padding: 10px;
+}
+.futl{
+  font-size: 15px;
+  font-family: Verdana;
+  line-height: 1.4;
+}
+.bh4{
+  font-size: 17px;
+  font-family: Verdana;
+}
+.lastimg{
+  display: none;
+}
+.lastimg2{
+  display: inherit;
+}
+p{
+  font-size: 11px;
+  color: #ddd;
+  width: 90%;
+  text-align: center;
+  line-height: 1.8;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%
+}
+
+
+
+}
+@media screen and (max-width: 830px) {
+  button{
+    display: none;
+  }
+  .btnbtn{
+    display: inherit;
+  }
+}
+@media screen and (max-width: 650px) {
+  .midbtn{
+    width: 83%;
+    margin: 6px;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+  .mh1{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.search{
+  display: none;
+}
+.spn{
+  display: inherit;
+}
+.spn:hover{
+  background-color: none;
+}
+.bh{
+font-size: 45px;
+padding-top: 27px;
+margin: 0;
+}
+.lastimg2{
+  width: 90%;
+}
+}
